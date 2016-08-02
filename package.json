@@ -1,0 +1,32 @@
+{
+  "name": "react-alt-abtest",
+  "version": "0.0.0",
+  "description": "A library for conducting component-level A/B Tests in React, using alt.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangstertim/react-alt-abtest.git"
+  },
+  "keywords": [
+    "split",
+    "test",
+    "ab",
+    "test",
+    "alt",
+    "react",
+    "experiment"
+  ],
+  "author": "Tim Miller (gangstertim)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gangstertim/react-alt-abtest/issues"
+  },
+  "homepage": "https://github.com/gangstertim/react-alt-abtest#readme",
+  "dependencies": {
+    "alt": "^0.18.5",
+    "react": "^15.3.0"
+  }
+}
